@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Strassen" type="CLASS" />
+      <mapping pattern="sourceIntegers" type="PLAIN_TEXT" />
       <mapping pattern="trial2" type="PLAIN_TEXT" />
       <mapping pattern="trial" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
